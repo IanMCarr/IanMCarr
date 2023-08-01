@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IanMCarr
+- 👋 Hi, I’m Ian M. Carr (@IanMCarr)
 - 👀 I’m interested in bioninformatics, mainly NGS based.
 - 🌱 I’m currently using C++, C#, python, bash and R.
 - 💞
