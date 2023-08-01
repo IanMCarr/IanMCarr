@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ian M. Carr (@IanMCarr)
 - 👀 I’m interested in bioninformatics, mainly NGS based.
-- 🌱 I’m currently using C++, C#, python, bash and R.
+- 🌱 I’m currently using C++, C#, python, bash and R. Currently, I'm learning F# for machine learning reasons
 - 💞
 - 📫 Reach me by searching for my name on the university of leeds's web page: https://www.leeds.ac.uk/staffaz
 
